@@ -1,0 +1,12 @@
+git add <filename> - move an untracked or modified file to staging zone
+git commit -m "<message>" - add a commit with all modifications in staging zone, giving the commit the message 
+
+git fetch origin - grab all the changes from origin so we can see them on local
+git merge <branch> - add the commits that exist in <branch> to the current branch I'm working on 
+git push origin dev - push the dev branch to the remote origin 
+
+git status - see the status of my local repo
+git branch -a - see all branches, remote and local, that exist on local 
+git checkout <branch> - switch the branch I'm working on to <branch>
+git checkout -b <new branch name> - create a new branch from the branch I'm currently on 
+
