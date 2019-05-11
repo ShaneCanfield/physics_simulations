@@ -1,4 +1,4 @@
-package sample;
+package blocks;
 
 public class Block {
     private double speed = 0;
