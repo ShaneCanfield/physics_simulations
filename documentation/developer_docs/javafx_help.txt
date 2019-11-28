@@ -1,0 +1,16 @@
+Things to download:
+jdk version 12.0.1
+javafx-sdk-12.0.1
+
+Download location for jdk:
+https://www.oracle.com/technetwork/java/javase/downloads/jdk12-downloads-5295953.html
+
+Download location for javafx: 
+https://gluonhq.com/products/javafx/
+
+To edit an Intellij configuration to run javafx:
+Helpful tutorial: 
+https://openjfx.io/openjfx-docs/#install-javafx
+
+It is also helpful to add java to your path 
+

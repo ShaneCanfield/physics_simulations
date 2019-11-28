@@ -6,6 +6,7 @@
 ##########################
 *.iml
 .idea/
+blocks_1.idea/*
 *.ipr
 *.iws
 out/
